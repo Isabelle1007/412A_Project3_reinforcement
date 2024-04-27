@@ -24,38 +24,38 @@ def question2():
     answerNoise = 0
     return answerDiscount, answerNoise
 
-def question3a():
-    answerDiscount = None
-    answerNoise = None
-    answerLivingReward = None
+def question3a(): #PASS
+    answerDiscount = 0.3
+    answerNoise = 0
+    answerLivingReward = 0
     return answerDiscount, answerNoise, answerLivingReward
     # If not possible, return 'NOT POSSIBLE'
 
 def question3b():
-    answerDiscount = None
-    answerNoise = None
-    answerLivingReward = None
+    answerDiscount = 0.3
+    answerNoise = 0.2
+    answerLivingReward = -0.1
     return answerDiscount, answerNoise, answerLivingReward
     # If not possible, return 'NOT POSSIBLE'
 
-def question3c():
-    answerDiscount = None
-    answerNoise = None
-    answerLivingReward = None
+def question3c(): #PASS
+    answerDiscount = 0.9
+    answerNoise = 0
+    answerLivingReward = 0
     return answerDiscount, answerNoise, answerLivingReward
     # If not possible, return 'NOT POSSIBLE'
 
-def question3d():
-    answerDiscount = None
-    answerNoise = None
-    answerLivingReward = None
+def question3d(): #PASS
+    answerDiscount = 0.9
+    answerNoise = 0.5
+    answerLivingReward = 0
     return answerDiscount, answerNoise, answerLivingReward
     # If not possible, return 'NOT POSSIBLE'
 
-def question3e():
-    answerDiscount = None
-    answerNoise = None
-    answerLivingReward = None
+def question3e(): #PASS
+    answerDiscount = 1
+    answerNoise = 0
+    answerLivingReward = 10
     return answerDiscount, answerNoise, answerLivingReward
     # If not possible, return 'NOT POSSIBLE'
 
